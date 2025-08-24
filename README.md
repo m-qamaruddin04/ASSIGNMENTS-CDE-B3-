@@ -41,7 +41,7 @@ Click a title below to open the corresponding folder.
 ---
 
 ## Repository Structure
-
+```
 ├─ Assignment 1/
 │  └─ Assignment 01 (Python Basics)
 │
@@ -92,3 +92,4 @@ Click a title below to open the corresponding folder.
 │  └─ Assignment 06 (Classes)
 │
 └─ README.md
+```
