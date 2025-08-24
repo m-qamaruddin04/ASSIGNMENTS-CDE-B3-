@@ -42,3 +42,44 @@ Click a title below to open the corresponding folder.
 
 ## Repository Structure
 
+├─ Assignment 1/Assignment 01 (Python Basics)
+├─ Assignment 2/Assignment 02 (Conditional Statements)
+├─ Assignment 3/
+│ ├─ 1
+│ ├─ 2
+│ ├─ 3
+│ ├─ 4
+│ ├─ 5
+│ ├─ 6
+│ ├─ 7
+│ ├─ 8
+│ ├─ 9
+├─ Assignment 4/
+│ ├─ 1
+│ ├─ 2
+│ ├─ 3
+│ ├─ 4
+│ ├─ 5
+│ ├─ 6
+│ ├─ 7
+│ ├─ 8
+│ ├─ 9
+│ ├─ 10
+├─ Assignment 5/
+│ ├─ 1
+│ ├─ 2
+│ ├─ 3
+│ ├─ 4
+│ ├─ 5
+│ ├─ 6
+│ ├─ 7
+│ ├─ 8
+│ ├─ 9
+│ ├─ 10
+│ ├─ 11
+│ ├─ 12
+│ ├─ 13
+│ ├─ 14
+│ ├─ 15
+├─ Assignment 6/Assignmnet 06 (Classes)
+└─ README.md
