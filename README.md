@@ -25,6 +25,7 @@ Assignment 08 — CaseStudy: The Android App Market on Google Play
 Assignment 09 — CaseStudy: The GitHub History of the Scala Language
 
 📂 Repository Structure
+
 ├─ Assignment 1/
 │  └─ Assignment 01 (Python Basics)
 │
@@ -81,4 +82,8 @@ Assignment 09 — CaseStudy: The GitHub History of the Scala Language
 │  └─ Assignment 08 (CaseStudy: The Android App Market on Google Play)
 │
 └─ Assignment 9/
+   └─ Assignment 09 (CaseStudy: The GitHub History of the Scala Language)
+
+
+
    └─ Assignment 09 (CaseStudy: The GitHub History of the Scala Language)
