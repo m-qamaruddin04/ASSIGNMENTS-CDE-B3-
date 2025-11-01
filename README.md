@@ -1,47 +1,30 @@
-# CDE-B3 — Assignments
+CDE-B3 — Assignments
 
-Welcome! This repository contains my CDE-B3 assignments.  
+Welcome!
+This repository contains my CDE-B3 assignments.
 Click a title below to open the corresponding folder.
 
-## Assignments
+📘 Assignments
 
-<ul>
-  <li>
-    <a href="/Assignment 1/" target="_blank" rel="noopener">
-      Assignment 01 — <em>Python Basics</em>
-    </a>
-  </li>
-  <li>
-    <a href="/Assignment 2/" target="_blank" rel="noopener">
-      Assignment 02 — <em>Conditional Statements</em>
-    </a>
-  </li>
-  <li>
-    <a href="/Assignment 3/" target="_blank" rel="noopener">
-      Assignment 03 — <em>Strings</em>
-    </a>
-  </li>
-  <li>
-    <a href="/Assignment 4/" target="_blank" rel="noopener">
-      Assignment 04 — <em>List</em>
-    </a>
-  </li>
-  <li>
-    <a href="/Assignment 5/" target="_blank" rel="noopener">
-      Assignment 05 — <em>Looping</em>
-    </a>
-  </li>
-  <li>
-    <a href="/Assignment 6/" target="_blank" rel="noopener">
-      Assignment 06 — <em>Classes</em>
-    </a>
-  </li>
-</ul>
+Assignment 01 — Python Basics
 
----
+Assignment 02 — Conditional Statements
 
-## Repository Structure
-```
+Assignment 03 — Strings
+
+Assignment 04 — Lists
+
+Assignment 05 — Looping
+
+Assignment 06 — Classes
+
+Assignment 07 — CaseStudy: Investigating Netflix Movies and Guest Stars in The Office
+
+Assignment 08 — CaseStudy: The Android App Market on Google Play
+
+Assignment 09 — CaseStudy: The GitHub History of the Scala Language
+
+📂 Repository Structure
 ├─ Assignment 1/
 │  └─ Assignment 01 (Python Basics)
 │
@@ -91,5 +74,11 @@ Click a title below to open the corresponding folder.
 ├─ Assignment 6/
 │  └─ Assignment 06 (Classes)
 │
-└─ README.md
-```
+├─ Assignment 7/
+│  └─ Assignment 07 (CaseStudy: Investigating Netflix Movies and Guest Stars in The Office)
+│
+├─ Assignment 8/
+│  └─ Assignment 08 (CaseStudy: The Android App Market on Google Play)
+│
+└─ Assignment 9/
+   └─ Assignment 09 (CaseStudy: The GitHub History of the Scala Language)
